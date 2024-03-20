@@ -1,0 +1,93 @@
+.text-success {
+  font-size: x-large;
+  font-weight: 700;
+}
+
+.heading {
+  font-size: xx-large;
+  font-weight: 900;
+}
+
+.para {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+}
+
+.img {
+  height: 300px;
+  width: 500px;
+}
+
+.para2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+}
+.box {
+  position: relative;
+  left: 410px;
+  bottom: 45px;
+
+
+  background: antiquewhite;
+  width: 150px;
+  height: 50px;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+.part4 {
+  position: relative;
+  left: 100px;
+  top: 200px;
+}
+
+.service {
+  text-align: center;
+  font-weight: 500;
+}
+
+.best img {
+  width: 300px;
+  height: 300px;
+}
+
+.seller {
+  text-align: center;
+}
+
+.plant4 {
+  background-color: white;
+  position: relative;
+  width: 200px;
+  text-align: center;
+  left: 50px;
+  bottom: 50px;
+}
+
+.emp img{
+  height: 500px;
+  width: 500px;
+}
+
+.emp{
+  
+  display: flex;
+  text-align: justify;
+  
+}
+.about{
+  margin: 50px;
+}
+
+.box{
+  background: white;
+  /* position: relative; */
+  /* width: 200px;
+  text-align: center;
+  
+  bottom: -100px; */
+  
+
+}

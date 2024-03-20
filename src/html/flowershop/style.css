@@ -1,0 +1,60 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    padding: 5px;
+    color: black;
+    background-color: yellowgreen;
+   display: flex;
+   justify-content: space-between;
+   flex-direction: row;
+
+}
+body{
+   overflow: hidden;
+}
+
+ul{
+   
+    padding: 5px;
+     display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 40px;
+
+ }
+ .img{
+    height: 100%;
+    width: 100%;
+ }
+ h2{
+    
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    font-size: 80px;
+ }
+p{
+    position: absolute;
+    left: 150px;
+    top: 200px;
+     font-size: 40px;
+ }
+
+
+ .btn button {
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    /* border-radius: 30%; */
+    left:10rem;
+    background-color: white;
+    color: black;
+    top: 20rem;
+  }
+  .btn button{
+   border-radius: 30px;
+  }
